@@ -8,4 +8,4 @@ hello sbguigu!  hello git!
 hello sbguigu!  hello git!
 hello sbguigu!  hello git!
 hello sbguigu!  hello git!
-hello sbguigu!  hello git!
+hello sbguigu!  hello git! hot-fix test
